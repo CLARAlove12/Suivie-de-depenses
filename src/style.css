@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+html, body, #app { height: 100%; }
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, Arial, Helvetica, sans-serif;
+  background: #f6f7fb;
+  color: #1f2937;
+}
